@@ -11,6 +11,8 @@ import GoogleButton from "@/components/buttons/GoogleButton";
 import LoginButton from "@/components/buttons/LoginButton";
 import LogoutButton from "@/components/buttons/LogoutButton";
 import { Avatar,Wrap, WrapItem, AvatarBadge, AvatarGroup } from '@chakra-ui/react'
+import './globals.css';
+
 
 export default function Page() {
  
